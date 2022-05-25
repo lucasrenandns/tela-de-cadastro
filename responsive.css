@@ -1,46 +1,23 @@
 
 @media screen and (min-width: 1030px) and (max-width: 1200px) {
+    
     .circle {
         display: none;
     }
 }
 
 @media screen and (max-width: 1030px) {
+
     section {
         display: none;
-    }
-
-    form button {
-        display: block;
-        margin: 15px auto;
     }
 }
 
 
 @media screen and (max-width: 600px) {
-    .social-media a img {
-        width: 30px;
-    }
-
-    .alternative span {
-        font-size: 0.8rem;
-    }
-
-    .label-input label {
-        font-size: 0.9rem;
-    }
-
-    .label-input input::placeholder {
-        font-size: 0.8rem;
-    }
 
     main h1 {
-        font-size: 2.3rem;
+        font-size: 2.6rem;
         text-align: center;
-    }
-
-    form button {
-        display: block;
-        margin: 15px auto;
     }
 }
