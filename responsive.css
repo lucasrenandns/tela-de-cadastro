@@ -1,0 +1,62 @@
+
+@media screen and (min-width: 950px) and (max-width: 1200px) {
+    form {
+        margin: 0;
+        padding: 10px;
+    }
+
+    .circle {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    section {
+        display: none;
+    }
+
+    form {
+        margin: 0;
+        padding: 10px;
+    }
+
+    form button {
+        display: block;
+        margin: 15px auto;
+    }
+}
+
+
+@media screen and (max-width: 460px) {
+    .social-media a img {
+        width: 30px;
+    }
+
+    .alternative span {
+        font-size: 15px;
+    }
+
+    form {
+        margin-top: 5%;
+        padding: 30px;
+    }
+
+    .label-input label {
+        font-size: 0.9rem;
+    }
+
+    .label-input input::placeholder {
+        font-size: 13px;
+    }
+
+    main h1 {
+        font-size: 2rem;
+        text-align: center;
+        margin-top: 12%;
+    }
+
+    form button {
+        display: block;
+        margin: 15px auto;
+    }
+}
