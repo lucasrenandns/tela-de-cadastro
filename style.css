@@ -125,7 +125,7 @@ form button:hover {
 
 section {
     display: flex;
-    flex: 50%;
+    flex: 60%;
     justify-content: center;
     align-items: center;
     position: relative;
@@ -142,6 +142,6 @@ section img {
     top: 0;
     left: 0;
     background: linear-gradient(45deg,  #e8cbc0, #636fa4);
-    clip-path: circle(59% at right 90%);
+    clip-path: circle(61% at right 90%);
     z-index: -1;
 }
