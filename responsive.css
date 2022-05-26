@@ -1,5 +1,6 @@
 
 @media screen and (min-width: 700px) and (max-width: 900px) {
+
     main {
         display: block;
         margin: 20px 0;
@@ -7,21 +8,17 @@
 
     section {
         display: none;
-       
     }
 
     .alternative {
         text-align: center;
     }
 
-    .circle {
-        display: none;
-    }
 }
 
 @media screen and (min-width: 600px) and (max-width: 700px) {
+
     main {
-        border: 2px solid red;
         display: block;
         margin: 20px 0;
     }
