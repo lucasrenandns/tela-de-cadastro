@@ -127,7 +127,7 @@ form button:hover {
 .label-input input::placeholder {
     font-size: 15px;
     font-weight: 400;
-    letter-spacing: 1.6px;
+    letter-spacing: 1px;
 }
 
 .label-input label {
