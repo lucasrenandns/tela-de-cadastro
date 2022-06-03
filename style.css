@@ -139,14 +139,6 @@ form button:hover {
     text-align: left;
 }
 
-.fa-eye {
-    position: absolute;
-    bottom: 26%;
-    right: 17%;
-    cursor: pointer;
-    color: rgba(255, 255, 255, 0.856);
-}
-
 /* ====== SECTION ====== */
 
 section {
